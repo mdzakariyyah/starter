@@ -13,6 +13,8 @@ return {
     end,
   },
 
+  { "nvchad/ui", branch='test'},
+
   -- {
   -- 	"nvim-treesitter/nvim-treesitter",
   -- 	opts = {
